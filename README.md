@@ -1,10 +1,10 @@
 ## Sobre a LoraBOT RAK811 LoraWAN  
 
 O módulo LoraBOT RAK811 LoraWAN utiliza o módulo RAK811 WisDuo LPWAN produzido pela [RAK Wireless](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK811-Module/Overview/#product-description). Ele está em 
-conformidade com as especificações Classe A e C de da Rede LoRaWAN 1.0.2, podendo se conectar facilmente a diferentes plataformas de servidores LoRaWAN como TheThingsNetwork (TTN), Chirpstack, Actility, etc.. 
+conformidade com as especificações Classe A e C da Rede LoRaWAN 1.0.2, podendo se conectar facilmente a diferentes plataformas de servidores LoRaWAN como TheThingsNetwork (TTN), Chirpstack, Actility, etc.. 
 
 <p align="center">
-<img width="696" height="608" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811iso-menor.png">
+<img width="464" height="405" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811iso-menor.png">
 </p align="center">
 
 A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos com  referência ao Xbee, bastando conectá-la a TiBEE para programação do firmware ou até mesmo na BEESP MF para programação selecionando o modo de Programação através da chave nela integrada.
@@ -13,6 +13,8 @@ A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos co
   <img width="700" height="398" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811-tibeemenor.png" alt="tibee" />
 </p>
 
+Com recursos apresentados no próprio módulo LoraBOT RAK811, você poderá configurar o seu firmware, mudar as bandas suportadas EU433, CN470, IN865, EU868, AU915, US915, KR920 e AS923, fazer aivação LoRaWAN por OTAA/ABP além de poder
+comunicar via LoRa ponto a ponto (P2P). Mais informações no [Github do RAK811](https://github.com/RAKWireless/rakwireless-docs/tree/master/docs/Product-Categories/WisDuo/RAK811-Module/Quickstart)
 
 <!--
 
