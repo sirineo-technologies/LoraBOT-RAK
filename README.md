@@ -13,8 +13,8 @@ A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos co
   <img width="700" height="398" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811-tibeemenor.png" alt="tibee" />
 </p>
 
-Com recursos apresentados no próprio módulo LoraBOT RAK811, você poderá configurar o seu firmware, mudar as bandas suportadas EU433, CN470, IN865, EU868, AU915, US915, KR920 e AS923, fazer aivação LoRaWAN por OTAA/ABP além de poder
-comunicar via LoRa ponto a ponto (P2P). Mais informações no [Github do RAK811](https://github.com/RAKWireless/rakwireless-docs/tree/master/docs/Product-Categories/WisDuo/RAK811-Module/Quickstart)
+Com recursos apresentados no próprio módulo LoraBOT RAK811, você poderá configurar o seu firmware, mudar as bandas suportadas EU433, CN470, IN865, EU868, AU915, US915, KR920 e AS923, fazer ativação LoRaWAN por OTAA/ABP além de poder
+comunicar via Rede LoRa ponto a ponto (P2P). Mais informações no [Github do RAK811](https://github.com/RAKWireless/rakwireless-docs/tree/master/docs/Product-Categories/WisDuo/RAK811-Module/Quickstart)
 
 <!--
 
