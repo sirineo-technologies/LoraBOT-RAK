@@ -1,23 +1,24 @@
 ## Sobre a LoraBOT RAK811 LoraWAN  
 
 O módulo LoraBOT RAK811 LoraWAN utiliza o módulo RAK811 WisDuo LPWAN produzido pela [RAK Wireless](https://docs.rakwireless.com/Product-Categories/WisDuo/RAK811-Module/Overview/#product-description). Ele está em 
-conformidade com as especificações Classe A e C de da Rede LoRaWAN 1.0.2, podendo se conectar facilmente a diferentes plataformas de servidores LoRaWAN como TheThingsNetwork (TTN), Chirpstack, Actility, etc.. Nosso
-módulo possui o o form factor xbee, o que facilitará o seu trabalho com diversos shields do mercado mundial e principlamente da SiriNEO Technologies.
-
+conformidade com as especificações Classe A e C de da Rede LoRaWAN 1.0.2, podendo se conectar facilmente a diferentes plataformas de servidores LoRaWAN como TheThingsNetwork (TTN), Chirpstack, Actility, etc.. 
 
 <p align="center">
-<img width="226" height="313" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee-top-png.png">
+<img width="696" height="608" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811iso-menor.png">
 </p align="center">
+
+A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos com  referência ao Xbee, bastando conectá-la a TiBEE para programação do firmware ou até mesmo na BEESP MF para programação selecionando o modo de Programação através da chave nela integrada.
+
+<p align="center">
+  <img width="700" height="398" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811-tibeemenor.png" alt="tibee" />
+</p>
+
 
 <!--
 
 Através também da IDE do Arduino ou ESP IDF, você terá também um grande aliado para suas soluções em IoT com aplicações que utilizam o Wi-FI e BLE.
 
-A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos com  referência ao Xbee, bastando conectá-la a TiBEE para programação do firmware ou até mesmo na BEESP MF para programação selecionando o modo de Programação através da chave nela integrada.
 
-<p align="center">
-  <img src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee-blinkled-gif.gif" alt="gif wroombee" />
-</p>
 
 
 Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla gama de aplicações a possibilidades de realizar pequenas automações ou aplicações que envolva entrada de dados analógicas de acordo com sua necessidade.
