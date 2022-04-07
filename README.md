@@ -7,7 +7,7 @@ conformidade com as especificações Classe A e C da Rede LoRaWAN 1.0.2, podendo
 <img width="464" height="405" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811iso-menor.png">
 </p align="center">
 
-A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos com  referência ao Xbee, bastando conectá-la a TiBEE para programação do firmware ou até mesmo na BEESP MF para programação selecionando o modo de Programação através da chave nela integrada.
+A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos com  referência ao Xbee, bastando conectá-la a TiBEE para programação do firmware ou até mesmo na BEESP MF para programação selecionando o modo de programação (BOOT) através da chave nela integrada.
 
 <p align="center">
   <img width="700" height="398" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/rak811-tibeemenor.png" alt="tibee" />
