@@ -20,9 +20,6 @@ comunicar via Rede LoRa ponto a ponto (P2P). Mais informações no [Github do RA
 
 Através também da IDE do Arduino ou ESP IDF, você terá também um grande aliado para suas soluções em IoT com aplicações que utilizam o Wi-FI e BLE.
 
-
-
-
 Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla gama de aplicações a possibilidades de realizar pequenas automações ou aplicações que envolva entrada de dados analógicas de acordo com sua necessidade.
 
 <p align="center">
