@@ -30,6 +30,9 @@ Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla
 
 ## História da LoraBOT RAK811 LoraWAN  
 
+Ter um módulo LoRaWAN foi era uma vontade antiga nossa, para trabalharmos com diversos ecossistemas IoT era necessário pelo menos conhecer e testar os principais protocolos, com o módulo RAK811 LoraWAN conseguimos realizar esse desejo
+onde em nossos testes também acabamos por adaptar o firmware para o equipamento conversar com as redes LoRaWAN da American Tower do Brasil e coseguirmos fazer a comunicação com sucesso.
+
 <!--
 A alguns anos eu teria sido procurado por colega par projetar um módulo que utilizasse o ESP8266, naquela época a gente vivia um conflito entre o ESP8266-01 e o Xbee que eu tinha uma grande paixão.
 Para eu projetar um módulo nos padrões do formato do xbee eu precisaria de GPIOs analógicos, fato que o módulo ESP8266-12, utilizado na placa de desenvolvimento chamada NodeMCU, trazia apenas
