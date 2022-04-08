@@ -62,7 +62,7 @@ Para a programação do firmware eu optei por fazer da forma manual através de 
 Abaixo nosso diagrama com o resumo das funcionalidades da LoraBOT RAK811 LoraWAN.  
 
 <p align="center">
-<img width="594" height="544" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/Diagrama%20de%20Vicente%20-%20WROOMBEE%20-%20PNG.png">
+<img width="594" height="544" src="https://github.com/sirineo-technologies/LoraBOT-RAK811/blob/main/Figura/LoraBOT%20RAK811-%20Vicente.png">
 </p align="center">
 
 ## Nosso e-mail
